@@ -1,5 +1,5 @@
 body {
-  background: #01ed;
+  background: #D74EE2;
   margin: 0;
   padding: 0;
   display: flex;
@@ -16,7 +16,7 @@ body {
   background-image: url(https://bit.ly/2RcERUw);
   background-size: cover;
   border-radius: 50%;
-  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1),
+  box-shadow: 0 0 0 4px #450000,
               inset 0 0 0 3px #efefef,
               inset 0 0 10px black,
               0 0 10px rgba(0, 0, 0, 0.2);
@@ -29,7 +29,7 @@ body {
 }
 
 .hand {
-  background: black;
+  background: darkgrey;
   height: 6px;
   position: absolute;
   top: 50%;
